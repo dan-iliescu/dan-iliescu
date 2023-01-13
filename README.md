@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dan-iliescu
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Front-End Development
+- 🌱 I’m currently doing Front-End Development
 - 💞️ I’m looking to collaborate on Web Apps
 - 📫 How to reach me ... e-mail
 
