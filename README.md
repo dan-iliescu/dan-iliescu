@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @dan-iliescu
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently doing Front-End Development
-- 💞️ I’m looking to collaborate on Web Apps
-- 📫 How to reach me ... e-mail
+- 👀 I’m interested in Web and Mobile Development
+- 🌱 I’m currently doing both
 
 <!---
 dan-iliescu/dan-iliescu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
